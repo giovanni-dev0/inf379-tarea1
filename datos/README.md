@@ -6,13 +6,13 @@ Cada conjunto de datos fue construido a partir de fuentes oficiales y cumple con
 
 ---
 
-## 🔹 Carlos Lavin
+## ⭐ Carlos Lavin
 
 [aquí contenido carlos]
 
 ---
 
-## 🔹 Giovanni Mealla
+## ⭐ Giovanni Mealla
 
 ### Archivos:
 
@@ -62,7 +62,7 @@ La exclusión fue una decisión consciente, fundamentada en principios de integr
 
 ---
 
-## 🔹 Ignacio Alfaro
+## ⭐ Ignacio Alfaro
 
 [aquí contenido ignacio]
 
