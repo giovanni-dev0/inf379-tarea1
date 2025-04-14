@@ -1,0 +1,41 @@
+source,target,value
+Argentina,Formal,30
+Argentina,Informal,50
+Argentina,Autonomo,10
+Argentina,Temporal,10
+Costa Rica,Formal,40
+Costa Rica,Informal,30
+Costa Rica,Autonomo,15
+Costa Rica,Temporal,15
+República Dominicana,Formal,10
+República Dominicana,Informal,70
+República Dominicana,Autonomo,10
+República Dominicana,Temporal,10
+Venezuela,Formal,25
+Venezuela,Informal,55
+Venezuela,Autonomo,10
+Venezuela,Temporal,10
+Colombia,Formal,35
+Colombia,Informal,45
+Colombia,Autonomo,10
+Colombia,Temporal,10
+Chile,Formal,45
+Chile,Informal,35
+Chile,Autonomo,10
+Chile,Temporal,10
+Perú,Formal,30
+Perú,Informal,50
+Perú,Autonomo,10
+Perú,Temporal,10
+Ecuador,Formal,28
+Ecuador,Informal,52
+Ecuador,Autonomo,10
+Ecuador,Temporal,10
+Brasil,Formal,38
+Brasil,Informal,42
+Brasil,Autonomo,10
+Brasil,Temporal,10
+México,Formal,36
+México,Informal,44
+México,Autonomo,10
+México,Temporal,10

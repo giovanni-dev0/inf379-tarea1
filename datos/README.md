@@ -64,6 +64,63 @@ La exclusión fue una decisión consciente, fundamentada en principios de integr
 
 ## ⭐ Ignacio Alfaro
 
-[aquí contenido ignacio]
+## Archivos utilizados
+
+- `acceso_servicios_2022_2023.csv`  
+- `condiciones_laborales_inmigrantes_latam.csv`
+
+---
+
+## Origen de los datos
+
+Ambos archivos fueron construidos a partir de una recopilación manual y estandarización de cifras públicas disponibles en informes institucionales publicados por organismos internacionales como la **Organización Internacional del Trabajo (OIT)**, la **Organización Internacional para las Migraciones (OIM)**, la **Comisión Económica para América Latina y el Caribe (CEPAL)**, el **Banco Interamericano de Desarrollo (BID)** y el **Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR)**.
+
+- `acceso_servicios_2022_2023.csv`:  
+  Derivado de datos y estimaciones contenidas en informes técnicos sobre inclusión social de personas migrantes, particularmente en relación al **acceso a salud, educación y vivienda** en países receptores como Colombia, Perú, Chile, Ecuador y Brasil.
+
+- `condiciones_laborales_inmigrantes_latam.csv`:  
+  Construido con base en estudios y reportes institucionales sobre la **inserción laboral de personas migrantes**, organizando los datos en cuatro categorías laborales: empleo formal, informal, autónomo y temporal.
+
+Ambos conjuntos de datos fueron estructurados para facilitar su visualización a través de gráficos jerárquicos y relacionales.
+
+---
+
+## Descripción de los archivos
+
+- `acceso_servicios_2022_2023.csv`:  
+  Contiene valores porcentuales de acceso de personas migrantes a tres servicios sociales clave —salud, educación y vivienda— por país receptor (Colombia, Perú, Chile, Ecuador, Brasil). Los datos corresponden al período **2022–2023** y fueron armonizados para visualización comparativa.
+
+- `condiciones_laborales_inmigrantes_latam.csv`:  
+  Describe la distribución relativa de la población migrante según el tipo de empleo que desempeña (formal, informal, autónomo o temporal) en 10 países latinoamericanos. Las cifras se expresan como porcentajes del total migrante ocupado y fueron organizadas para su representación en gráficos del tipo **Chord Chart**.
+
+---
+
+## Propósito de los datos
+
+Los datos fueron utilizados para el desarrollo de dos visualizaciones no convencionales:
+
+1. **Gráfico de Sunburst** que muestra la **distribución porcentual del acceso a servicios sociales** por país de acogida.
+2. **Gráfico de Chord Chart** que representa la **relación entre países y condiciones laborales predominantes** entre migrantes.
+
+Estas visualizaciones buscan ofrecer una mirada sintética, intuitiva y analíticamente robusta sobre los desafíos de integración de las personas migrantes en América Latina desde una perspectiva multidimensional: social y laboral.
+
+---
+
+## Consideraciones éticas y técnicas
+
+Durante el proceso de construcción y visualización, se tomaron decisiones metodológicas orientadas a asegurar **coherencia interpretativa**, **representatividad regional** y **alineamiento con buenas prácticas en análisis de datos migratorios**:
+
+- Se excluyeron países con datos notablemente inconsistentes o sin cobertura suficiente en al menos dos de los informes fuente.
+- Se priorizó la utilización de fuentes multilaterales reconocidas y públicas.
+- Se armonizaron las categorías laborales y sociales para asegurar comparabilidad entre países, respetando definiciones de la **OIT** sobre trabajo decente y de la **CEPAL** sobre acceso a servicios esenciales.
+
+---
+
+## Justificación de exclusiones y decisiones de diseño
+
+- Algunos países o territorios de baja población migrante (ej. Belice, Surinam) no fueron incluidos debido a la falta de datos desagregados o incompatibilidad en las series temporales.
+- En el **Chord Chart**, se aplicó una técnica de diferenciación cromática con etiquetas internas (ej. `"Temporal`) para forzar la correcta asignación de colores y evitar errores de visualización.
+
+Estas decisiones buscan priorizar la claridad visual y la integridad metodológica, evitando distorsiones en la representación de fenómenos complejos y facilitando una lectura responsable y contextualizada del fenómeno migratorio.
 
 ---
