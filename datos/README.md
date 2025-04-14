@@ -69,8 +69,6 @@ La exclusión fue una decisión consciente, fundamentada en principios de integr
 - `acceso_servicios_2022_2023.csv`  
 - `condiciones_laborales_inmigrantes_latam.csv`
 
----
-
 ### Origen de los datos
 
 Ambos archivos fueron construidos a partir de una recopilación manual y estandarización de cifras públicas disponibles en informes institucionales publicados por organismos internacionales como la **Organización Internacional del Trabajo (OIT)**, la **Organización Internacional para las Migraciones (OIM)**, la **Comisión Económica para América Latina y el Caribe (CEPAL)**, el **Banco Interamericano de Desarrollo (BID)** y el **Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR)**.
@@ -83,7 +81,6 @@ Ambos archivos fueron construidos a partir de una recopilación manual y estanda
 
 Ambos conjuntos de datos fueron estructurados para facilitar su visualización a través de gráficos jerárquicos y relacionales.
 
----
 
 ### Descripción de los archivos
 
@@ -93,7 +90,6 @@ Ambos conjuntos de datos fueron estructurados para facilitar su visualización a
 - `condiciones_laborales_inmigrantes_latam.csv`:  
   Describe la distribución relativa de la población migrante según el tipo de empleo que desempeña (formal, informal, autónomo o temporal) en 10 países latinoamericanos. Las cifras se expresan como porcentajes del total migrante ocupado y fueron organizadas para su representación en gráficos del tipo **Chord Chart**.
 
----
 
 ### Propósito de los datos
 
@@ -104,7 +100,6 @@ Los datos fueron utilizados para el desarrollo de dos visualizaciones no convenc
 
 Estas visualizaciones buscan ofrecer una mirada sintética, intuitiva y analíticamente robusta sobre los desafíos de integración de las personas migrantes en América Latina desde una perspectiva multidimensional: social y laboral.
 
----
 
 ### Consideraciones éticas y técnicas
 
@@ -114,7 +109,6 @@ Durante el proceso de construcción y visualización, se tomaron decisiones meto
 - Se priorizó la utilización de fuentes multilaterales reconocidas y públicas.
 - Se armonizaron las categorías laborales y sociales para asegurar comparabilidad entre países, respetando definiciones de la **OIT** sobre trabajo decente y de la **CEPAL** sobre acceso a servicios esenciales.
 
----
 
 ### Justificación de exclusiones y decisiones de diseño
 
