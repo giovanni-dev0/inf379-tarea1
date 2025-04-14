@@ -37,7 +37,6 @@ inf379-tarea1/
 │   ├── carlos/
 │   ├── giovanni/
 │   └── ignacio/
-├── informe_final.pdf       # Informe entregado
 └── README.md               # Este archivo
 ```
 
