@@ -19,7 +19,7 @@ Este repositorio contiene el desarrollo completo de la Tarea 1, en donde se anal
 
 ## 👥 Integrantes
 
-- Giovanni Daniel Mealla Barra  
+- Giovanni Mealla  
 - Carlos Lavín  
 - Ignacio Alfaro
 
