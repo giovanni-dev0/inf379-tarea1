@@ -8,7 +8,57 @@ Cada conjunto de datos fue construido a partir de fuentes oficiales y cumple con
 
 ## ⭐ Carlos Lavin
 
-[aquí contenido carlos]
+### Archivos:
+
+- `DatosPobrezaLatam.csv`
+- `Perfilmigrante.csv`
+
+### Origen de los datos:
+
+Los archivos fueron construidos a partir de bases oficiales de organismos internacionales y procesados manualmente para su análisis visual:
+
+-`DatosPobrezaLatam.csv`: Reúne datos de pobreza y desempleo en países de América Latina (2023 o año más reciente disponible), extraídos del Banco Mundial, CEPAL y Statista, junto con el Índice de Desarrollo Humano (IDH) proporcionado por el PNUD.
+
+- `Perfilmigrante.csv`: Basado en el informe “Panorama de la población migrante en América Latina y el Caribe” de CEPAL (2024), contiene la composición etaria de la población migrante extranjera en 12 países latinoamericanos.
+
+
+
+
+### Descripción:
+
+Los archivos permiten analizar dos dimensiones clave del fenómeno migratorio en América Latina:
+
+-`DatosPobrezaLatam.csv`: Contiene indicadores de pobreza y desempleo sumados como medida de vulnerabilidad, además del IDH para cada país. Estos datos fueron utilizados para construir un Treemap comparativo.
+
+- `Perfilmigrante.csv`: Muestra la distribución de la población migrante en tres rangos de edad: 0–14, 15–64, y 65+, organizados para construir un Radar Chart que permite comparaciones entre países.
+
+
+### Propósito:
+
+Los datos fueron utilizados para crear dos visualizaciones enfocadas en las causas estructurales de la migración y en el perfil de quienes migran:
+
+Un **Treemap** que representa la vulnerabilidad económica de cada país como la suma de pobreza y desempleo, y utiliza el color para representar el IDH, permitiendo interpretar simultáneamente desarrollo y desigualdad.
+
+Un **Radar Chart** que ilustra la distribución etaria de la población migrante, revelando si se trata de migración laboral, familiar o forzada según el rango de edad predominante.
+
+Estas visualizaciones permiten responder las preguntas: ¿quiénes migran? y ¿por qué lo hacen?, aportando un enfoque cuantitativo para entender el origen del fenómeno migratorio en la región.
+
+### Consideraciones éticas y técnicas:
+
+Durante el proceso de recopilación de datos, se aplicaron criterios de exclusión para asegurar la coherencia metodológica y ética:
+
+Se excluyeron territorios sin estatus político soberano reconocido (por ejemplo, Islas Malvinas/Falkland, Guayana Francesa, Puerto Rico y otros territorios dependientes).
+
+
+**Justificación**:
+ 
+Ética: Incluir territorios en disputa podría sesgar la narrativa y reforzar posiciones geopolíticas no consensuadas.
+
+Técnica: Estas regiones tienden a tener datos incompletos o inconsistentes, lo que podría distorsionar los análisis comparativos.
+
+La exclusión fue una decisión consciente y fundamentada en buenas prácticas de visualización de datos.
+
+
 
 ---
 
