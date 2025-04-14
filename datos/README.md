@@ -19,7 +19,7 @@ Los archivos fueron construidos a partir de bases oficiales de organismos intern
 
 -`DatosPobrezaLatam.csv`: Reúne datos de pobreza y desempleo en países de América Latina (2023 o año más reciente disponible), extraídos del Banco Mundial, CEPAL y Statista, junto con el Índice de Desarrollo Humano (IDH) proporcionado por el PNUD.
 
-- `Perfilmigrante.csv`: Basado en el informe “Panorama de la población migrante en América Latina y el Caribe” de CEPAL (2024), contiene la composición etaria de la población migrante extranjera en 12 países latinoamericanos.
+-`Perfilmigrante.csv`: Basado en el informe “Panorama de la población migrante en América Latina y el Caribe” de CEPAL (2024), contiene la composición etaria de la población migrante extranjera en 12 países latinoamericanos.
 
 
 
@@ -30,7 +30,7 @@ Los archivos permiten analizar dos dimensiones clave del fenómeno migratorio en
 
 -`DatosPobrezaLatam.csv`: Contiene indicadores de pobreza y desempleo sumados como medida de vulnerabilidad, además del IDH para cada país. Estos datos fueron utilizados para construir un Treemap comparativo.
 
-- `Perfilmigrante.csv`: Muestra la distribución de la población migrante en tres rangos de edad: 0–14, 15–64, y 65+, organizados para construir un Radar Chart que permite comparaciones entre países.
+-`Perfilmigrante.csv`: Muestra la distribución de la población migrante en tres rangos de edad: 0–14, 15–64, y 65+, organizados para construir un Radar Chart que permite comparaciones entre países.
 
 
 ### Propósito:
