@@ -64,14 +64,14 @@ La exclusión fue una decisión consciente, fundamentada en principios de integr
 
 ## ⭐ Ignacio Alfaro
 
-## Archivos utilizados
+### Archivos utilizados
 
 - `acceso_servicios_2022_2023.csv`  
 - `condiciones_laborales_inmigrantes_latam.csv`
 
 ---
 
-## Origen de los datos
+### Origen de los datos
 
 Ambos archivos fueron construidos a partir de una recopilación manual y estandarización de cifras públicas disponibles en informes institucionales publicados por organismos internacionales como la **Organización Internacional del Trabajo (OIT)**, la **Organización Internacional para las Migraciones (OIM)**, la **Comisión Económica para América Latina y el Caribe (CEPAL)**, el **Banco Interamericano de Desarrollo (BID)** y el **Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR)**.
 
@@ -85,7 +85,7 @@ Ambos conjuntos de datos fueron estructurados para facilitar su visualización a
 
 ---
 
-## Descripción de los archivos
+### Descripción de los archivos
 
 - `acceso_servicios_2022_2023.csv`:  
   Contiene valores porcentuales de acceso de personas migrantes a tres servicios sociales clave —salud, educación y vivienda— por país receptor (Colombia, Perú, Chile, Ecuador, Brasil). Los datos corresponden al período **2022–2023** y fueron armonizados para visualización comparativa.
@@ -95,7 +95,7 @@ Ambos conjuntos de datos fueron estructurados para facilitar su visualización a
 
 ---
 
-## Propósito de los datos
+### Propósito de los datos
 
 Los datos fueron utilizados para el desarrollo de dos visualizaciones no convencionales:
 
@@ -106,7 +106,7 @@ Estas visualizaciones buscan ofrecer una mirada sintética, intuitiva y analíti
 
 ---
 
-## Consideraciones éticas y técnicas
+### Consideraciones éticas y técnicas
 
 Durante el proceso de construcción y visualización, se tomaron decisiones metodológicas orientadas a asegurar **coherencia interpretativa**, **representatividad regional** y **alineamiento con buenas prácticas en análisis de datos migratorios**:
 
@@ -116,7 +116,7 @@ Durante el proceso de construcción y visualización, se tomaron decisiones meto
 
 ---
 
-## Justificación de exclusiones y decisiones de diseño
+### Justificación de exclusiones y decisiones de diseño
 
 - Algunos países o territorios de baja población migrante (ej. Belice, Surinam) no fueron incluidos debido a la falta de datos desagregados o incompatibilidad en las series temporales.
 - En el **Chord Chart**, se aplicó una técnica de diferenciación cromática con etiquetas internas (ej. `"Temporal`) para forzar la correcta asignación de colores y evitar errores de visualización.
