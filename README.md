@@ -43,7 +43,7 @@ inf379-tarea1/
 
 ## ⚙️ Requisitos para ejecutar los notebooks
 
-Los notebooks Jupyter utilizan **Python 3.13.2**. Para evitar problemas al momento de ejecutar el código, asegúrate de tener la version mas reciente de las siguientes bibliotecas instaladas:
+Los notebooks Jupyter que estan en la carpeta /codigo utilizan **Python 3.13.2**. Para evitar problemas al momento de ejecutar el código, asegúrate de tener la version mas reciente de las siguientes bibliotecas instaladas:
 
 ```bash
 pip install pandas matplotlib numpy plotly wordcloud ipython nbformat
