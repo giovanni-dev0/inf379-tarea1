@@ -36,7 +36,8 @@ inf379-tarea1/
 ├── datos/                  # Archivos CSV utilizados para los gráficos
 │   ├── carlos/
 │   ├── giovanni/
-│   └── ignacio/
+│   ├── ignacio/
+│   └── README             # README.md explicativo de las fuentes de los datos.
 └── README.md               # Este archivo
 ```
 
